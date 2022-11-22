@@ -1,6 +1,6 @@
 # Hello_Natural_Life_Launcher
 • 3.0.0.0 - Alpha 3 Release Notes:
-+Settings User Interface improved
++Settings User Interface improved<LineBreak/>
 +Language select User Interface improved
 +User Intarface bugs fixed
 • Update Systems:  
